@@ -1,27 +1,27 @@
-.div1 {
-    background-color: #f68258;
-    width: 500px;
-    height: 500px;
+.divA {
+    background-color: #58d1f6;
+    width: 300px;
+    height: 300px;
 }
 
-.div2 {
+.divB {
     width: 50%;
-    height: 50vw;
-    background-color: rgb(0, 251, 255)
-}
-
-.div3 {
-    width: 75vw;
     height: 50%;
-    background-color: rgb(255, 0, 0);
+    background-color: #459644;
 }
 
-.div4 {
-    background-color: #24fa20;
-    width: 250px;
-    height: 250px;
+.divC {
+    background-color: rgb(231, 167, 29);
+    width: 55vw;
+    height: 20%;
+}
+
+.divD {
+    width: 50%;
+    height: 60vw;
+    background-color: rgb(177, 20, 46);
 }
 
 .p1{
-    color: #ffff; background-color: red; font-size: 25px; font-family: monospace; font-weight: bold;
+    color: #ffff; background-color: red; font-size: 15px; font-family: Arial, Helvetica, sans-serif; font-weight: bold;
 }
